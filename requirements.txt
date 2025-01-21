@@ -1,0 +1,10 @@
+streamlit
+langchain-openai
+athina
+faiss-gpu
+pytesseract
+unstructured-client
+unstructured[all-docs]
+langchain
+datasets
+pandas
